@@ -1,4 +1,4 @@
-**Authentication Details for published project**
+**Authentication Details for published project:-**
 **Mail** ganashivagana2001@gamil.com
 **password** gana123
 
