@@ -1,3 +1,7 @@
+**Authentication Details for published project**
+**Mail** ganashivagana2001@gamil.com
+**password** gana123
+
 # 🎬 Admin Dashboard – Movie Upload System
 
 A secure, responsive Admin Dashboard built using **React**, **Tailwind CSS**, and **Redux Toolkit**. This application allows administrators to log in and manage movie content with features like image/video upload, metadata editing, and UI-rich interactions.
